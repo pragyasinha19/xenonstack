@@ -1,0 +1,1 @@
+It is a basic structure, and you may need to extend it based on specific requirements. Additionally, for security reasons, it's recommended to use environment variables for sensitive information like database credential
